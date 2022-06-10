@@ -1,0 +1,10 @@
+.menu__item {
+    /*Stylo da lista*/
+    list-style: none;
+
+}
+
+.menu__item:last-child .menu-link {
+    /*Ultimo filho da lista*/
+    margin-right: 0;
+}

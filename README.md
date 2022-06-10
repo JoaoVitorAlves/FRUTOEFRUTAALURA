@@ -1,2 +1,2 @@
-# FRUTOEFRUTAALURA
-Este repositório, faço uso de CSS3 aplicando técnicas avançadas. 
+# arquitetura-css
+curso de arquitetura da Alura. 
